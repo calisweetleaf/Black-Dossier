@@ -1,0 +1,63 @@
+\documentclass[12pt]{article}
+\usepackage[a4paper,margin=1in]{geometry}
+\usepackage{fancyhdr}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{fontspec}
+\usepackage{xcolor}
+\usepackage{marginnote}
+
+% Font: Government-used font (Times New Roman or Nimbus Roman)
+\setmainfont{Times New Roman} 
+
+% Header Formatting
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{Your Last Name \thepage}
+\lhead{}
+\renewcommand{\headrulewidth}{0pt}
+
+% MLA-style Title Formatting
+\titleformat{\section}
+  {\normalfont\large\bfseries}{\thesection}{1em}{}
+
+% Paragraph Formatting
+\setlength{\parindent}{0.5in}
+\doublespacing
+
+% Side Annotation Formatting
+\newcommand{\annotate}[1]{\marginnote{\color{blue} #1}}
+
+\begin{document}
+
+% MLA Header
+\noindent Your Name \\
+Professor Name \\
+Course Title \\
+Date \\
+
+% Title
+\begin{center}
+    \textbf{Title of Your Document}
+\end{center}
+
+\noindent
+\annotate{Opening sentence should grab attention.}
+Start your introduction here. When writing an MLA-style document, be sure to use a clear thesis and well-structured arguments. 
+
+\annotate{Use citations properly to support claims.}
+When citing sources, use proper MLA citation format (Author, page). For example, "This is an example quote" (Smith 23). 
+
+\section*{Body Section 1}
+\annotate{This paragraph introduces the main argument.}
+Your first body paragraph should introduce the main argument and support it with evidence. 
+
+\section*{Body Section 2}
+\annotate{Consider counterarguments and address them here.}
+A strong research paper considers counterarguments and addresses them thoughtfully. 
+
+\section*{Conclusion}
+\annotate{Restate the thesis and summarize key points.}
+Your conclusion should reinforce the thesis and summarize key findings. Avoid introducing new ideas here.
+
+\end{document}
