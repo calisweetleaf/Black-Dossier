@@ -1,31 +1,49 @@
-# Ignore logs
-*.log
-
-# Ignore Python cache
-__pycache__/
-*.pyc
-
-# Ignore OS-specific files
+# --- OS & Editor Files ---
 .DS_Store
 Thumbs.db
+*.sublime-*
+*.code-workspace
+._*
 
-# Ignore ZIP files
-*.zip
-
-# Ignore IDE-specific files
+# --- IDE/Editor Directories ---
 .vscode/
 .idea/
 
-# Ignore environment files
+# --- Logs & Temporary Files ---
+*.log  # Excludes all logs except those in /logs
+!logs/  # Keep the logs directory (but ignore its contents if empty)
+*.tmp
+*.swp
+
+# --- Python Artifacts ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# --- LaTeX/PDF Publishing Files ---
+*.aux
+*.out
+*.toc
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.synctex.gz
+
+# --- Script Outputs ---
+*.pdf  # Ignore generated PDFs (use /publishing for source files)
+
+# --- Environment/Secrets ---
 .env
 .env.local
-.env.development
-.env.production
+.secret
+credentials.json
 
-# Ignore node_modules (if applicable)
+# --- Project-Specific Exclusions ---
+# Ignore ZIP archives (already tracked in root)
+*.zip
+
+# --- Dependency Directories ---
 node_modules/
-
-# Ignore build artifacts
-build/
-dist/
-*.exe
+venv/

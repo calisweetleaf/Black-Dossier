@@ -1,0 +1,54 @@
+Github_Political_organizing/
+┣ .github/
+┃ ┣ ISSUE_TEMPLATE/
+┃ ┃ ┣ bug_report.md
+┃ ┃ ┗ feature_request.md
+┃ ┗ workflows/
+┃   ┣ publish.yml
+┃   ┗ sync_chatgpt.yml
+┣ .vscode/
+┃ ┗ settings.json
+┣ content/
+┃ ┣ Grassroots Organizing Template.md
+┃ ┣ Investigative Journal Setup.md
+┃ ┣ Journal Workflow.md
+┃ ┣ Journalism and Investigative Field Guide.md
+┃ ┣ Journalism ToolKit.md
+┃ ┣ Tools for Political Activism and Journalism.md
+┃ ┗ Vįva Łą Řɛvölutîön.md
+┣ docs/
+┃ ┣ ai_processing_checklist.md
+┃ ┣ ai_processing_guidelines.md
+┃ ┣ changelog.md
+┃ ┣ citation_references.md
+┃ ┣ document_cross_reference.md
+┃ ┣ feedback_log.md
+┃ ┣ final_document_structure.md
+┃ ┣ optimized_instructions.md
+┃ ┣ osint_tool_database.md
+┃ ┣ reference_links.md
+┃ ┣ style_guide.md
+┃ ┣ tasks.md
+┃ ┗ verified_citation_database.json
+┣ maintenance/
+┃ ┣ project_structure.txt
+┃ ┗ project_verification.log
+┣ publishing/
+┃ ┣ convert_to_pdf.bat
+┃ ┣ convert_to_pdf.sh
+┃ ┗ mla_template.tex
+┣ scripts/
+┃ ┣ batch_process_files.sh
+┃ ┣ generate_pdf.sh
+┃ ┣ sync_github.sh
+┃ ┣ update_docs.sh
+┃ ┗ verify_project_integrity.py
+┣ .editorconfig
+┣ .GITIGNORE
+┣ changelog.md
+┣ feedback_log.md
+┣ LICENSE
+┣ optimized_instructions.md
+┣ README.MD
+┣ reference_links.md
+┗ verification_report.log
