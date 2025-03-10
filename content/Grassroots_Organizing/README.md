@@ -1,36 +1,37 @@
-# Grassroots Organizing Project
+# Grassroots Organizing Template
 
 ## Overview
 
-This repository contains the **Grassroots Organizing Template**, designed to provide privacy-first, secure, and sustainable frameworks for community-based organizing.  
-This template is part of the broader **Black Dossier Project**, aligned with revolutionary organizing principles as defined in *Viva La Revolution*.  
+The **Grassroots Organizing Template** is a comprehensive, privacy-first, secure, and sustainable organizing guide designed for community-based and revolutionary efforts.  
+This template is part of the broader **Black Dossier Project**, focusing on modern activist strategy, privacy, and operational security.
 
 ---
 
 ## Structure
 
-- **sections/** — Contains fully developed sections of the organizing template. Each section focuses on a critical component of grassroots security and operational strategy.
-- **drafts/** — Contains active drafts, revision notes, and work-in-progress content.
-- **resources/** — Contains templates, checklists, guides, and tools to support organizers.
-- **Grassroots_Organizing_Template_Final.md** — Will contain the compiled final document when all sections are complete.
-- **Grassroots_Organizing_Template_Annotated.md** — (Optional) Annotated research version with inline citations and sources.
+- **sections/** — Fully developed chapters on core organizing topics.
+- **drafts/** — Working drafts, revision logs, and notes under development.
+- **resources/** — Operational tools, templates, and guides for direct use.
+- **Grassroots_Organizing_Template_Final.md** — Finalized version for distribution.
+- **Grassroots_Organizing_Template_Annotated.md** — Annotated research version with citations.
 
 ---
 
-## Usage
+## How to Use
 
-- **Start editing** in `/sections/` for structured development.
-- **Use drafts** for ideas and revisions before inserting them into formal sections.
-- **Reference templates** for organizing operational plans (e.g., security audits, communication protocols).
-- **Compile** all completed sections into the final document for distribution.
+1. **Start by reading** sections to understand core components of secure organizing.
+2. **Use resources and templates** for real-world organizing needs (e.g., recruitment, encrypted comms).
+3. **Draft and adapt content** in `/drafts/` as you customize for local needs.
+4. **Compile** a final version suitable for your community using `Grassroots_Organizing_Template_Final.md`.
 
 ---
 
 ## License and Ethical Use
 
-Please see LICENSE.md for detailed terms of use. This project is provided **strictly for non-commercial, educational, and revolutionary organizing purposes**. Redistribution and alteration are subject to project-wide terms.
+See [LICENSE.md](./LICENSE.md) for full license terms. This work is for **non-commercial, educational, and revolutionary purposes only**.  
+Redistribution, alteration, or republication are governed by the licensing terms.
 
 ---
 
-**Author: Daeron Blackfyre / Somnus Research and Development**  
-**Year: 2025**
+**Author**: Daeron Blackfyre / Somnus Research and Development  
+**Year**: 2025
