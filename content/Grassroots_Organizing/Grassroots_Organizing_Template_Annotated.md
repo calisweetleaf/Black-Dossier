@@ -1,0 +1,2 @@
+# Grassroots Organizing Template Annotated
+
