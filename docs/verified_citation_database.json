@@ -1,3 +1,34 @@
-# verified_citation_database.json
-
-This is a placeholder for verified_citation_database.json.
+{
+  "citations": [
+    {
+      "title": "CrimethInc",
+      "url": "https://crimethinc.com/",
+      "category": "Revolutionary Organizing"
+    },
+    {
+      "title": "The Anarchist Library",
+      "url": "https://theanarchistlibrary.org/",
+      "category": "Political Theory"
+    },
+    {
+      "title": "It's Going Down",
+      "url": "https://itsgoingdown.org/",
+      "category": "Activism and Resistance"
+    },
+    {
+      "title": "Privacy Guides",
+      "url": "https://www.privacyguides.org/",
+      "category": "Security and Privacy"
+    },
+    {
+      "title": "Signal",
+      "url": "https://www.signal.org/",
+      "category": "Secure Communication"
+    },
+    {
+      "title": "Matrix",
+      "url": "https://matrix.org/",
+      "category": "Decentralized Communication"
+    }
+  ]
+}

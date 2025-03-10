@@ -10,44 +10,39 @@ These documents serve as **structured guides** for **investigators, activists, j
 ---
 
 ## 📂 File Structure & Purpose
+
+### 🔹 **Revolutionary Documents**
+- **`Viva La Revolution/`** → Finalized revolutionary doctrine including Preface, Note on Intent, body, and License (March 2024).
+
 ### 🔹 **Investigative Journalism & Research**
-- **`Journalism and Investigative Field Guide.md`** → Comprehensive investigative journalism & OSINT techniques.  
-- **`Investigative Journal Setup.md`** → Research & OSINT system setup.  
-- **`Journal Workflow.md`** → A structured workflow for investigative journalism, research, and OSINT.  
-- **`Journalism ToolKit.md`** → Essential tools & methods for journalism.  
-- **`Tools for Political Activism and Journalism.md`** → Secure tools for activism, research, and digital security.  
+- **`Journalism and Investigative Field Guide.md`**
+- **`Investigative Journal Setup.md`**
+- **`Journal Workflow.md`**
+- **`Journalism ToolKit.md`**
+- **`Tools for Political Activism and Journalism.md`**
 
 ### 🔹 **Grassroots Activism & Organizing**
-- **`Vįva Łą Řɛvölutîön.md`** → Political activism strategy & operational resilience.  
-- **`Grassroots Organizing Template.md`** → Organizing structure, secure strategies, and online anonymity.  
+- **`Grassroots Organizing Template.md`**
 
 ### 🔹 **Supporting & Tracking Documents**
-- **`changelog.md`** → Tracks changes across versions.  
-- **`tasks.md`** → Pending refinements, formatting tasks, and publishing needs.  
-- **`feedback_log.md`** → Tracks AI-generated refinements and necessary corrections.  
+- **`changelog.md`**
+- **`tasks.md`**
+- **`feedback_log.md`**
 
 ### 🔹 **Reference & Publishing Files**
-- **`reference_links.md`** → Curated OSINT, security, legal, and activism resources.  
-- **`mla_template.tex`** → MLA-formatted template for professional document exports.  
-- **`convert_to_pdf.sh` / `convert_to_pdf.bat`** → Scripts for Markdown-to-PDF conversion.  
+- **`reference_links.md`**
+- **`mla_template.tex`**
+- **`convert_to_pdf.sh` / `convert_to_pdf.bat`**
 
 ---
 
-## 📜 How to Use This Project
-1. **Read the Core Documents** → Use the guides as reference material.  
-2. **Use the Tools List** → Find relevant investigative & activist tools.  
-3. **Follow the Workflow** → Adopt best practices for documentation & security.  
-4. **Maintain Version Control** → Update documents as needed & log changes.  
-5. **Utilize Publishing Tools** → Convert Markdown documents into PDFs using the included LaTeX template and scripts.  
+## ✅ Finalized Milestones
+- **Finalized Viva La Revolution document (March 2024).**
+- **Established 'releases/' and 'internal_drafts/' folders for version control.**
+- **Finalized global LICENSE.md applying to entire repository.**
+
+## 📜 Licensing
+All documents are licensed under LICENSE.md at the repository root.
 
 ---
-
-## 🚀 Future Enhancements
-📌 **Planned updates include:**  
-- Improved **OSINT methodologies & investigative workflows.**  
-- Expanded **digital security best practices.**  
-- Additional **AI-assisted document structuring & automation.**  
-- Cross-referencing **activist movements & investigative journalism case studies.**  
-
----
-_Last updated: March 2025_
+_Last updated: March 2024_

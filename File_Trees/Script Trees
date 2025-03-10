@@ -1,0 +1,16 @@
+Github_Political_organizing/
+├── scripts/
+│   ├── batch_process_files.sh
+│   ├── generate_pdf.sh
+│   ├── sync_github.sh
+│   ├── send_email.sh
+│   └── verify_project_integrity.py
+├── logs/
+├── output/
+│   └── pdf/
+├── VERSION
+├── checksums.txt
+├── setup_github_protection.sh
+└── .github/
+    └── workflows/
+        └── ci-cd.yml

@@ -108,6 +108,12 @@ These documents serve as structured guides for **investigators, activists, journ
 - **`reference_links.md`** → Curated OSINT, security, legal, and activism resources.  
 - **`mla_template.tex`** → MLA-formatted template for professional document exports.  
 - **`convert_to_pdf.sh` / `convert_to_pdf.bat`** → Scripts for Markdown-to-PDF conversion.  
+- # License and Clarification of Intent for the Entire Project
+
+**This is a contribution to political discourse, a blueprint for thought and action — nothing more, nothing less.**
+
+**This project is a weapon — and weapons are not to be dulled.**
+
 
 ✅ **This repository is structured for continuous expansion and iterative improvements.**  
 
