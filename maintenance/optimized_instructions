@@ -88,7 +88,39 @@ To ensure **ChatGPT refines documents properly** without losing critical informa
 - **Create a website or GitHub repository** for hosting public versions.  
 - **Develop a versioning system** for periodic updates.  
 - **Consider localized translations** for broader accessibility.  
+# Optimized Project Instructions — Black Dossier
 
+## Project Purpose
+A repository for investigative journalism, political resistance, and activist organizing. Fully structured for documentation, tools, AI integration, and public publishing.
+
+---
+
+## ✅ Current Workflow
+
+### 1. **Creating and Editing Documents**
+- Write new documents in `/content/`.
+- Separate Preface, body, and License for all major works.
+- Use `internal_drafts/` for working copies.
+
+### 2. **Review Process**
+- Run AI-generated content through `docs/ai_processing_checklist.md`.
+- Review for compliance with `docs/ai_processing_guidelines.md`.
+- Cross-reference citations in `docs/citation_references.md` and `docs/verified_citation_database.json`.
+
+### 3. **Finalization & Publishing**
+- Move final versions to `/content/[Document Name]/`.
+- Tag ready versions in `changelog.md` and `feedback_log.md`.
+- Use GitHub Actions in `.github/workflows/` for future publishing automation.
+
+### 4. **Version Control & Collaboration**
+- Use GitHub commit/push system.
+- Maintain `changelog.md`, `tasks.md`, and `feedback_log.md`.
+
+---
+
+## ⚙️ Optional Future Automation
+- Auto-generate PDFs via `convert_to_pdf.sh`.
+- Auto-publish via `publish.yml` workflow.
 ---
 
 ## **✅ Ready to Begin?**

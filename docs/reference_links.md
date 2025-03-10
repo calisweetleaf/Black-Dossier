@@ -3,6 +3,26 @@
 This document serves as a **centralized repository of resources** for investigative journalism, activism, digital security, OSINT investigations, privacy protection, and censorship resistance.  
 
 ---
+# Reference Links
+
+## Revolutionary Organizing & Resistance
+- https://crimethinc.com/
+- https://itsgoingdown.org/
+- https://theanarchistlibrary.org/
+
+## Mutual Aid & Survival
+- https://mutualaiddisasterrelief.org/
+- https://bigdoorbrigade.com/
+
+## Secure Communications & Privacy
+- https://www.whonix.org/
+- https://www.privacyguides.org/
+- https://www.signal.org/
+- https://matrix.org/
+
+## OSINT & Investigative Journalism
+- https://www.bellingcat.com/
+- https://osintframework.com/
 ## **🕵️ Investigative Journalism & OSINT Resources**  
 Comprehensive tools and guides for digital investigations, data verification, and open-source intelligence (OSINT).  
 

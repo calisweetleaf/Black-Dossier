@@ -1,49 +1,38 @@
-# --- OS & Editor Files ---
+# OS/System junk
 .DS_Store
 Thumbs.db
-*.sublime-*
-*.code-workspace
-._*
+desktop.ini
 
-# --- IDE/Editor Directories ---
-.vscode/
-.idea/
-
-# --- Logs & Temporary Files ---
-*.log  # Excludes all logs except those in /logs
-!logs/  # Keep the logs directory (but ignore its contents if empty)
-*.tmp
-*.swp
-
-# --- Python Artifacts ---
+# Python and script caches
 __pycache__/
-*.py[cod]
-*.egg-info/
-.pytest_cache/
+*.pyc
 
-# --- LaTeX/PDF Publishing Files ---
+# VSCode project files (optional)
+.vscode/
+
+# Logs and temp
+*.log
+*.bak
+
+# OSINT or data output (for privacy)
+data_output/
+scraped_data/
+internal_drafts/
+
+# LaTeX build
 *.aux
 *.out
 *.toc
-*.bbl
-*.blg
-*.fdb_latexmk
-*.fls
-*.synctex.gz
+*.pdf
 
-# --- Script Outputs ---
-*.pdf  # Ignore generated PDFs (use /publishing for source files)
+# Word/Office temp files
+~$*.docx
 
-# --- Environment/Secrets ---
-.env
-.env.local
-.secret
-credentials.json
+# GitHub-specific automation output (if used later)
+.github/temp/
+.github/output/
 
-# --- Project-Specific Exclusions ---
-# Ignore ZIP archives (already tracked in root)
-*.zip
-
-# --- Dependency Directories ---
-node_modules/
-venv/
+# Releases (can be re-added when ready to publish)
+releases/*.zip
+releases/*.pdf
+releases/*.docx
