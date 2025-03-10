@@ -26,3 +26,22 @@ This file details the completed layout for major projects and internal structure
 - **feedback_log.md** — Logs refinements and internal discussions.
 - **reference_links.md** — External trusted links for organizing, OSINT, mutual aid.
 - **Project File Tree.md** (to be finalized in maintenance/) — Full structured map of repository content.
+
+## Grassroots Organizing
+- Sections:
+  1. Secure Communication Infrastructure
+  2. Digital Security Foundations
+  3. Secure Documentation Management
+  4. Recruitment and Membership Protection
+  5. Legal and Administrative Privacy
+  6. Advanced Technical Security
+  7. Continuous Privacy Enhancement
+  8. Recommended Toolkit
+  9. Ethical Considerations
+- Final compiled document (Grassroots_Organizing_Template_Final.md)
+- Annotated version (Grassroots_Organizing_Template_Annotated.md)
+- Operational templates (resources/templates/):
+  - Recruitment Checklist
+  - Digital Security Audit
+  - Encrypted Communication Protocol
+  - Incident Response Plan
