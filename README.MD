@@ -13,6 +13,8 @@ These documents serve as **structured guides** for **investigators, activists, j
 
 ### 🔹 **Revolutionary Documents**
 - **`Viva La Revolution/`** → Finalized revolutionary doctrine including Preface, Note on Intent, body, and License (March 2024).
+- - **Grassroots Organizing** — Privacy-first organizing guide including operational templates, secure communication protocols, and membership vetting guides.
+
 
 ### 🔹 **Investigative Journalism & Research**
 - **`Journalism and Investigative Field Guide.md`**
